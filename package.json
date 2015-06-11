@@ -4,7 +4,8 @@
   "description": "DesignCo Logging API",
   "main": "src/index.js",
   "dependencies": {
-    "chalk": "^1.0.0"
+    "chalk": "^1.0.0",
+    "designco-config": "designco-wa/config"
   },
   "devDependencies": {},
   "scripts": {
