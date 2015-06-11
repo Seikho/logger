@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "sourceMap": false
+    },
+    "filesGlob": [
+        "./src/**/*.ts"
+    ],
+    "files": [
+        "./src/index.ts",
+        "./src/typings/chalk/chalk.d.ts",
+        "./src/typings/designco-logger/designco-logger.d.ts",
+        "./src/typings/node/node.d.ts"
+    ]
+}
