@@ -10,7 +10,6 @@
     "files": [
         "./src/index.ts",
         "./src/typings/chalk/chalk.d.ts",
-        "./src/typings/designco/designco-config.d.ts",
         "./src/typings/designco/designco-logger.d.ts",
         "./src/typings/node/node.d.ts"
     ]
