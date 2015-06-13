@@ -1,5 +1,5 @@
 {
-  "name": "designco-logger",
+  "name": "ls-logger",
   "version": "0.1.0",
   "description": "DesignCo Logging API",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/designco-wa/logger.git"
+    "url": "git+https://github.com/longshot-io/logger.git"
   },
   "keywords": [
     "designco",
@@ -24,7 +24,7 @@
   "author": "Carl Winkler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/designco-wa/logger/issues"
+    "url": "https://github.com/longshot-io/logger/issues"
   },
-  "homepage": "https://github.com/designco-wa/logger#readme"
+  "homepage": "https://github.com/longshot-io/logger#readme"
 }
