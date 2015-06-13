@@ -1,9 +1,9 @@
-### DesignCo Logging API
-Carl Winkler
+### Longship Logging API
+Very simple console logging API
 
 #### Installation
 ```
-npm install designco-wa/logger --save
+npm install ls-logger --save
 ```
 
 #### API
