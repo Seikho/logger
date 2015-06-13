@@ -9,7 +9,7 @@ npm install ls-logger --save
 #### API
 
 ```javascript
-var logger = require("designco-logger");
+var logger = require("ls-logger");
 
 logger.debug("a debug message");
 
