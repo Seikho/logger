@@ -1,6 +1,6 @@
 {
   "name": "ls-logger",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Longshot Logging API",
   "main": "src/index.js",
   "dependencies": {
