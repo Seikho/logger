@@ -1,4 +1,4 @@
-### Longship Logging API
+### Longshot Logging API
 Very simple console logging API
 
 #### Installation
