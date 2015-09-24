@@ -9,6 +9,10 @@ npm install ls-logger --save
 #### API
 
 ```javascript
+// TypeScript 1.6+
+import logger = require("ls-logger");
+
+// JavaScript
 var logger = require("ls-logger");
 
 logger.debug("a debug message");
