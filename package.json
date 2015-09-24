@@ -1,7 +1,7 @@
 {
   "name": "ls-logger",
   "version": "0.2.1",
-  "description": "DesignCo Logging API",
+  "description": "Longshot Logging API",
   "main": "src/index.js",
   "dependencies": {
     "chalk": "^1.0.0"
