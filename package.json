@@ -23,7 +23,8 @@
     "logging",
     "logger",
     "console",
-    "api"
+    "api",
+    "log"
   ],
   "author": "Carl Winkler",
   "license": "MIT",
