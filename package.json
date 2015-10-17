@@ -1,6 +1,6 @@
 {
   "name": "ls-logger",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Longshot Logging API",
   "main": "src/index.js",
   "dependencies": {
@@ -16,14 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/longshot-io/logger.git"
+    "url": "git+https://github.com/seikho/logger.git"
   },
   "keywords": [
-    "designco",
+    "longshot",
     "logging",
     "logger",
     "console",
-    "api"
+    "api",
+    "log"
   ],
   "author": "Carl Winkler",
   "license": "MIT",
