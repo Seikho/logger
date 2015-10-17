@@ -1,6 +1,6 @@
 {
   "name": "ls-logger",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Longshot Logging API",
   "main": "src/index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
     "url": "git+https://github.com/longshot-io/logger.git"
   },
   "keywords": [
-    "designco",
+    "longshot",
     "logging",
     "logger",
     "console",
