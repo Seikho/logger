@@ -18,7 +18,7 @@ function debug(message) {
 }
 exports.debug = debug;
 function on(event, handler) {
-    emitter.on(event, handler);
+    emitter.on(event.toLocaleLowerCase(), handler);
 }
 exports.on = on;
 function log(prefix, message, colour) {

@@ -20,7 +20,7 @@ export function debug(message) {
 }
 
 export function on(event: string, handler: Function) {
-    emitter.on(event, handler);
+    emitter.on(event.toLocaleLowerCase(), handler);
 }
 
 function log(prefix: string, message: string, colour: Chalk.ChalkChain) {
